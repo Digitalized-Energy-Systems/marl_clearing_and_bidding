@@ -1,7 +1,7 @@
 
 # Overview
 This is the accompanying repository to the publication 
-[Approximating Energy Market Clearing and Bidding With Model-Based Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10703033/).
+[Approximating Energy Market Clearing and Bidding With Model-Based Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10703033/) by [Thomas Wolgast](https://orcid.org/0000-0002-9042-9964) and [Astrid Nieße](https://orcid.org/0000-0003-1881-9172).
 
 # Installation
 Run `pip install -r requirements.txt` for installation. Tested with python 3.8. 
